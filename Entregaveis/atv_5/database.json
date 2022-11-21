@@ -1,0 +1,12 @@
+[
+    {
+        "email": "murilo",
+        "password": "$argon2id$v=19$m=102400,t=2,p=8$lUNj6mWIFOxr219G2nV1lw$n9ScBlK8NZ82eSmBiFmkXw",
+        "salt": "lUNj6mWIFOxr219G2nV1lw"
+    },
+    {
+        "email": "saimor",
+        "password": "$argon2id$v=19$m=102400,t=2,p=8$mLQzX/eiSuSZdwB1e78sCQ$MVku4KV9v5Tu0SCrFyiQqw",
+        "salt": "mLQzX/eiSuSZdwB1e78sCQ"
+    }
+]
